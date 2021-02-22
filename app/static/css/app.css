@@ -1,3 +1,15 @@
 body {
     padding-top: 5rem;
 }
+
+
+.sendBtn{
+    background-color: #1f66ff;
+    color: #ffffff;
+}
+
+.required{
+    color: red;
+    display: inline-block;
+
+}
